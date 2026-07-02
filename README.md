@@ -1,10 +1,10 @@
 # ShopSphere E-Commerce Analytics Dashboard
 
-![Dashboard Banner](https://img.shields.io/badge/Status-Active-brightgreen) ![Power%20BI](https://img.shields.io/badge/Tool-PowerBI-blue) ![License](https://img.shields.io/badge/License-MIT-green)
+![Dashboard Banner](https://img.shields.io/badge/Status-Active-brightgreen) ![Power%20BI](https://img.shields.io/badge/Tool-PowerBI-blue)
 
 ## 📊 Project Overview
 
-ShopSphere is a comprehensive **Power BI analytics dashboard** designed to provide actionable insights into e-commerce business performance. This project analyzes sales data across multiple product categories, sales channels, and geographic regions to drive data-informed decision-making.
+ShopSphere is a comprehensive **Power BI analytics dashboard** designed to provide actionable insights into e-commerce business performance. This project analyzes sales data across multiple product categories, sales channels, delivery performance, and profitability metrics.
 
 The dashboard covers **12,000+ orders** spanning a full calendar year with detailed breakdowns by product category, sales channel, delivery performance, and profitability metrics.
 
@@ -282,8 +282,6 @@ E-commerce businesses struggle with:
 shopsphere-ecommerce-dashboard/
 ├── README.md                      # Project documentation
 ├── LICENSE                        # MIT License
-├── CONTRIBUTING.md                # Contribution guidelines
-├── CODE_OF_CONDUCT.md             # Community standards
 ├── .gitignore                     # Git ignore rules
 │
 ├── assets/
@@ -338,7 +336,6 @@ shopsphere-ecommerce-dashboard/
    - Open Power BI file for customization
    - Update data connections as needed
    - Add new measures or drill-through pages
-   - See CONTRIBUTING.md for modification guidelines
 
 ---
 
@@ -390,18 +387,6 @@ shopsphere-ecommerce-dashboard/
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Please see [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
-
----
-
 ## 👤 Author
 
 **Sapana** - Data Analyst  
@@ -416,15 +401,6 @@ If you found this project helpful, please consider:
 - 🔗 Sharing it with your network
 - 💬 Providing feedback or suggestions
 - 🤝 Contributing improvements
-
----
-
-## 📞 Support & Questions
-
-For questions, issues, or suggestions:
-1. Open a [GitHub Issue](https://github.com/sapana14/shopsphere-ecommerce-dashboard/issues)
-2. Check existing issues for similar topics
-3. Provide detailed context and use cases
 
 ---
 
